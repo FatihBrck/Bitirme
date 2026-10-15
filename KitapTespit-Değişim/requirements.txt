@@ -1,0 +1,9 @@
+# YOLO26s-OBB + PP-OCRv6 Small
+ultralytics>=8.4.0
+paddleocr==3.7.0
+opencv-python>=4.8
+numpy>=1.23
+scipy>=1.10
+pytest>=8.0
+# Windows PaddlePaddle CPU motorunu ayrıca kur:
+# python -3.10 -m pip install paddlepaddle==3.2.2 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/

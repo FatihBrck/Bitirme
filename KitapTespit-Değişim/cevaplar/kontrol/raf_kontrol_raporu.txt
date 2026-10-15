@@ -1,0 +1,63 @@
+======================================================================
+RAF KONTROL RAPORU
+======================================================================
+
+[ÖZET]
+Eşleşen kitap sayısı: 10
+Yerinde duran kitap sayısı: 5
+Yer değiştiren kitap sayısı: 5
+Referansta olup kontrol fotoğrafında net eşleşmeyen kitap sayısı: 0
+Kontrol fotoğrafında olup referansla net eşleşmeyen kitap sayısı: 0
+
+[KİTAP HAREKETLERİ]
+- 1. kitap şu anda 2. kitap yerinde duruyor. Durum: YER DEĞİŞTİRDİ | Güven: GÜÇLÜ | Genel skor: %75.3 | Metin benzerliği: %88.0 | Görüntü benzerliği: %61.9
+  Referans OCR: TERK EDILIŞIM PETER ROCK Neden?
+  Kontrol OCR : TERK EDILIŞIM Neden? PETER ROCK
+
+- 2. kitap şu anda 1. kitap yerinde duruyor. Durum: YER DEĞİŞTİRDİ | Güven: GÜÇLÜ | Genel skor: %78.1 | Metin benzerliği: %100.0 | Görüntü benzerliği: %56.4
+  Referans OCR: Ebedigen KATHLEEN E. WOODIWISS
+  Kontrol OCR : Ebedigen KATHLEEN E. WOODIWISS
+
+- 3. kitap yerinde duruyor. Durum: YERİNDE | Güven: GÜÇLÜ | Genel skor: %75.2 | Metin benzerliği: %85.1 | Görüntü benzerliği: %63.9
+  Referans OCR: TESS BIÇAK SIRT! GERRITSEN
+  Kontrol OCR : TESS BIÇAK SIRTI GERRITSEN
+
+- 4. kitap yerinde duruyor. Durum: YERİNDE | Güven: GÜÇLÜ | Genel skor: %74.0 | Metin benzerliği: %84.2 | Görüntü benzerliği: %62.6
+  Referans OCR: GEORGE ORWELL HAYVAN GIFTLIGI
+  Kontrol OCR : GEORGE ORWELL HAYVAN GIFTLIGT
+
+- 5. kitap yerinde duruyor. Durum: YERİNDE | Güven: GÜÇLÜ | Genel skor: %72.6 | Metin benzerliği: %76.8 | Görüntü benzerliği: %67.3
+  Referans OCR: SABAHATTİN ALİ Kürk Mantolu Madonna 0日0
+  Kontrol OCR : SABAHATTİN ALİKürk Mantolu Madonna 00
+
+- 6. kitap şu anda 7. kitap yerinde duruyor. Durum: YER DEĞİŞTİRDİ | Güven: GÜÇLÜ | Genel skor: %85.1 | Metin benzerliği: %100.0 | Görüntü benzerliği: %70.4
+  Referans OCR: SIYAHESEKARISI ROB SINCLAIR
+  Kontrol OCR : SIYAHESEKARISI ROB SINCLAIR
+
+- 7. kitap şu anda 8. kitap yerinde duruyor. Durum: YER DEĞİŞTİRDİ | Güven: GÜÇLÜ | Genel skor: %73.9 | Metin benzerliği: %92.4 | Görüntü benzerliği: %55.6
+  Referans OCR: KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS
+  Kontrol OCR : KUTSAL CEHALET ASKIN ZENGIN AKKUS
+
+- 8. kitap şu anda 6. kitap yerinde duruyor. Durum: YER DEĞİŞTİRDİ | Güven: ORTA | Genel skor: %54.4 | Metin benzerliği: %46.7 | Görüntü benzerliği: %57.8
+  Referans OCR: DESIFRE! MAIJIA JUU
+  Kontrol OCR : DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI
+
+- 9. kitap yerinde duruyor. Durum: YERİNDE | Güven: GÜÇLÜ | Genel skor: %75.9 | Metin benzerliği: %85.8 | Görüntü benzerliği: %65.3
+  Referans OCR: HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH
+  Kontrol OCR : HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN
+
+- 10. kitap yerinde duruyor. Durum: YERİNDE | Güven: ORTA | Genel skor: %60.6 | Metin benzerliği: %52.6 | Görüntü benzerliği: %64.6
+  Referans OCR: Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT
+  Kontrol OCR : Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT
+
+[ŞU ANKİ RAFA GÖRE OKUMA]
+- Şu an 1. yerde duran kitap, referanstaki 2. kitap gibi görünüyor. Skor: %78.1
+- Şu an 2. yerde duran kitap, referanstaki 1. kitap gibi görünüyor. Skor: %75.3
+- Şu an 3. yerde duran kitap, referanstaki 3. kitap gibi görünüyor. Skor: %75.2
+- Şu an 4. yerde duran kitap, referanstaki 4. kitap gibi görünüyor. Skor: %74.0
+- Şu an 5. yerde duran kitap, referanstaki 5. kitap gibi görünüyor. Skor: %72.6
+- Şu an 6. yerde duran kitap, referanstaki 8. kitap gibi görünüyor. Skor: %54.4
+- Şu an 7. yerde duran kitap, referanstaki 6. kitap gibi görünüyor. Skor: %85.1
+- Şu an 8. yerde duran kitap, referanstaki 7. kitap gibi görünüyor. Skor: %73.9
+- Şu an 9. yerde duran kitap, referanstaki 9. kitap gibi görünüyor. Skor: %75.9
+- Şu an 10. yerde duran kitap, referanstaki 10. kitap gibi görünüyor. Skor: %60.6

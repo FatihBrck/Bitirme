@@ -1,0 +1,2589 @@
+{
+    "reference_dir": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar",
+    "control_image_path": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\fotoğraflar\\karışık.jpg",
+    "reference_total_books": 10,
+    "current_total_books": 10,
+    "matches": [
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.88,
+            "image_similarity": 0.6188,
+            "ocr_conf_score": 0.9518,
+            "final_score": 0.753,
+            "image_details": {
+                "hist_score": 0.856,
+                "phash_score": 0.6562,
+                "edge_score": 0.5194,
+                "orb_score": 0.2561,
+                "best_rotation": 0
+            },
+            "status": "YER DEĞİŞTİRDİ",
+            "sentence": "1. kitap şu anda 2. kitap yerinde duruyor.",
+            "confidence_label": "GÜÇLÜ",
+            "ambiguity_margin": 0.3188,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 1.0,
+            "image_similarity": 0.564,
+            "ocr_conf_score": 0.9789,
+            "final_score": 0.7809,
+            "image_details": {
+                "hist_score": 0.8912,
+                "phash_score": 0.5938,
+                "edge_score": 0.2459,
+                "orb_score": 0.2723,
+                "best_rotation": 180
+            },
+            "status": "YER DEĞİŞTİRDİ",
+            "sentence": "2. kitap şu anda 1. kitap yerinde duruyor.",
+            "confidence_label": "GÜÇLÜ",
+            "ambiguity_margin": 0.3399,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.8507,
+            "image_similarity": 0.6393,
+            "ocr_conf_score": 0.991,
+            "final_score": 0.752,
+            "image_details": {
+                "hist_score": 0.7512,
+                "phash_score": 0.5625,
+                "edge_score": 0.5797,
+                "orb_score": 0.5992,
+                "best_rotation": 0
+            },
+            "status": "YERİNDE",
+            "sentence": "3. kitap yerinde duruyor.",
+            "confidence_label": "GÜÇLÜ",
+            "ambiguity_margin": 0.311,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.8418,
+            "image_similarity": 0.6258,
+            "ocr_conf_score": 0.9686,
+            "final_score": 0.7401,
+            "image_details": {
+                "hist_score": 0.8042,
+                "phash_score": 0.6562,
+                "edge_score": 0.3952,
+                "orb_score": 0.5061,
+                "best_rotation": 0
+            },
+            "status": "YERİNDE",
+            "sentence": "4. kitap yerinde duruyor.",
+            "confidence_label": "GÜÇLÜ",
+            "ambiguity_margin": 0.3765,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.768,
+            "image_similarity": 0.6729,
+            "ocr_conf_score": 0.8763,
+            "final_score": 0.7259,
+            "image_details": {
+                "hist_score": 0.8448,
+                "phash_score": 0.8125,
+                "edge_score": 0.5184,
+                "orb_score": 0.3523,
+                "best_rotation": 0
+            },
+            "status": "YERİNDE",
+            "sentence": "5. kitap yerinde duruyor.",
+            "confidence_label": "GÜÇLÜ",
+            "ambiguity_margin": 0.3477,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 1.0,
+            "image_similarity": 0.7037,
+            "ocr_conf_score": 0.9763,
+            "final_score": 0.8507,
+            "image_details": {
+                "hist_score": 0.8586,
+                "phash_score": 0.7188,
+                "edge_score": 0.4726,
+                "orb_score": 0.6451,
+                "best_rotation": 0
+            },
+            "status": "YER DEĞİŞTİRDİ",
+            "sentence": "6. kitap şu anda 7. kitap yerinde duruyor.",
+            "confidence_label": "GÜÇLÜ",
+            "ambiguity_margin": 0.4245,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.924,
+            "image_similarity": 0.5558,
+            "ocr_conf_score": 0.9031,
+            "final_score": 0.7389,
+            "image_details": {
+                "hist_score": 0.7257,
+                "phash_score": 0.625,
+                "edge_score": 0.3678,
+                "orb_score": 0.3596,
+                "best_rotation": 0
+            },
+            "status": "YER DEĞİŞTİRDİ",
+            "sentence": "7. kitap şu anda 8. kitap yerinde duruyor.",
+            "confidence_label": "GÜÇLÜ",
+            "ambiguity_margin": 0.2974,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.4667,
+            "image_similarity": 0.5782,
+            "ocr_conf_score": 0.8927,
+            "final_score": 0.5438,
+            "image_details": {
+                "hist_score": 0.6077,
+                "phash_score": 0.7188,
+                "edge_score": 0.4667,
+                "orb_score": 0.4627,
+                "best_rotation": 0
+            },
+            "status": "YER DEĞİŞTİRDİ",
+            "sentence": "8. kitap şu anda 6. kitap yerinde duruyor.",
+            "confidence_label": "ORTA",
+            "ambiguity_margin": 0.1023,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.8579,
+            "image_similarity": 0.6534,
+            "ocr_conf_score": 0.9253,
+            "final_score": 0.759,
+            "image_details": {
+                "hist_score": 0.8395,
+                "phash_score": 0.7188,
+                "edge_score": 0.539,
+                "orb_score": 0.3605,
+                "best_rotation": 0
+            },
+            "status": "YERİNDE",
+            "sentence": "9. kitap yerinde duruyor.",
+            "confidence_label": "GÜÇLÜ",
+            "ambiguity_margin": 0.339,
+            "ambiguous": false
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.5262,
+            "image_similarity": 0.6463,
+            "ocr_conf_score": 0.9265,
+            "final_score": 0.6063,
+            "image_details": {
+                "hist_score": 0.9023,
+                "phash_score": 0.6875,
+                "edge_score": 0.4918,
+                "orb_score": 0.3012,
+                "best_rotation": 0
+            },
+            "status": "YERİNDE",
+            "sentence": "10. kitap yerinde duruyor.",
+            "confidence_label": "ORTA",
+            "ambiguity_margin": 0.1863,
+            "ambiguous": false
+        }
+    ],
+    "unmatched_references": [],
+    "unmatched_currents": [],
+    "current_slots": [
+        {
+            "slot_name": "SLOT_001",
+            "order_index": 1,
+            "class_id": 0,
+            "center_x": 857.25,
+            "center_y": 1651.4,
+            "yolo_conf": 0.9019,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_001.jpg",
+            "quad_points": [
+                [
+                    961.4730834960938,
+                    466.1319274902344
+                ],
+                [
+                    672.9974975585938,
+                    475.9110412597656
+                ],
+                [
+                    753.0254516601562,
+                    2836.66552734375
+                ],
+                [
+                    1041.5010986328125,
+                    2826.88623046875
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.9755,
+            "ocr_quality_score": 1.3555,
+            "text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_raw": "Ebedigen KATHLEEN E. WOODIWISS",
+            "match_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_filtered": "Ebedigen KATHLEEN E. WOODIWISS",
+            "ocr_first_pass_conf": 0.9755,
+            "noise_detected": false,
+            "noise_token_count": 0,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "ebedigen kathleen e woodiwiss"
+        },
+        {
+            "slot_name": "SLOT_002",
+            "order_index": 2,
+            "class_id": 0,
+            "center_x": 1243.04,
+            "center_y": 1595.55,
+            "yolo_conf": 0.9007,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_002.jpg",
+            "quad_points": [
+                [
+                    1250.328369140625,
+                    419.3885803222656
+                ],
+                [
+                    1045.410888671875,
+                    436.0877380371094
+                ],
+                [
+                    1235.74609375,
+                    2771.7109375
+                ],
+                [
+                    1440.66357421875,
+                    2755.01171875
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.9562,
+            "ocr_quality_score": 1.3501,
+            "text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_raw": "TERK EDILIŞIM Neden? PETER ROCK",
+            "match_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_filtered": "TERK EDILIŞIM Neden? PETER ROCK",
+            "ocr_first_pass_conf": 0.9562,
+            "noise_detected": false,
+            "noise_token_count": 0,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "terk edilisim neden peter rock"
+        },
+        {
+            "slot_name": "SLOT_003",
+            "order_index": 3,
+            "class_id": 0,
+            "center_x": 1509.53,
+            "center_y": 1708.72,
+            "yolo_conf": 0.9321,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_003.jpg",
+            "quad_points": [
+                [
+                    1605.310791015625,
+                    657.5056762695312
+                ],
+                [
+                    1305.665283203125,
+                    673.0253295898438
+                ],
+                [
+                    1413.753662109375,
+                    2759.9384765625
+                ],
+                [
+                    1713.399169921875,
+                    2744.4189453125
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.988,
+            "ocr_quality_score": 1.338,
+            "text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_raw": "TESS BIÇAK SIRTI GERRITSEN",
+            "match_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_filtered": "TESS BIÇAK SIRTI GERRITSEN",
+            "ocr_first_pass_conf": 0.988,
+            "noise_detected": false,
+            "noise_token_count": 0,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "tess bicak sirti gerritsen"
+        },
+        {
+            "slot_name": "SLOT_004",
+            "order_index": 4,
+            "class_id": 0,
+            "center_x": 1751.38,
+            "center_y": 1667.3,
+            "yolo_conf": 0.9039,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_004.jpg",
+            "quad_points": [
+                [
+                    1805.406982421875,
+                    584.9371948242188
+                ],
+                [
+                    1660.396240234375,
+                    587.4158325195312
+                ],
+                [
+                    1697.35546875,
+                    2749.6630859375
+                ],
+                [
+                    1842.3662109375,
+                    2747.1845703125
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.9669,
+            "ocr_quality_score": 1.3469,
+            "text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_raw": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "match_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_filtered": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "ocr_first_pass_conf": 0.9669,
+            "noise_detected": false,
+            "noise_token_count": 0,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "george orwell hayvan giftligt"
+        },
+        {
+            "slot_name": "SLOT_005",
+            "order_index": 5,
+            "class_id": 0,
+            "center_x": 1898.83,
+            "center_y": 1549.88,
+            "yolo_conf": 0.8977,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_005.jpg",
+            "quad_points": [
+                [
+                    1979.470947265625,
+                    375.0948181152344
+                ],
+                [
+                    1825.596435546875,
+                    374.6100158691406
+                ],
+                [
+                    1818.19189453125,
+                    2724.673583984375
+                ],
+                [
+                    1972.06640625,
+                    2725.158447265625
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.9546,
+            "ocr_quality_score": 1.4146,
+            "text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_raw": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "match_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_filtered": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "ocr_first_pass_conf": 0.9546,
+            "noise_detected": false,
+            "noise_token_count": 1,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "sabahattin alikurk mantolu madonna 00"
+        },
+        {
+            "slot_name": "SLOT_006",
+            "order_index": 6,
+            "class_id": 0,
+            "center_x": 2171.41,
+            "center_y": 1537.75,
+            "yolo_conf": 0.9344,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_006.jpg",
+            "quad_points": [
+                [
+                    2394.9892578125,
+                    354.4882507324219
+                ],
+                [
+                    2021.68359375,
+                    342.8948059082031
+                ],
+                [
+                    1947.82861328125,
+                    2721.010498046875
+                ],
+                [
+                    2321.13427734375,
+                    2732.603759765625
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.9762,
+            "ocr_quality_score": 1.4318,
+            "text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_raw": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "match_text": "DESIFRE! DEHA MARTI",
+            "text_filtered": "DESIFRE! DEHA MARTI",
+            "ocr_first_pass_conf": 0.9762,
+            "noise_detected": true,
+            "noise_token_count": 17,
+            "noise_removed_tokens": 16,
+            "ocr_retry_attempted": true,
+            "ocr_retry_used": false,
+            "ocr_clean_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\debug_cleaned\\SLOT_006_clean.png",
+            "ocr_retry_text": "DESIFREI MAI JIA 上",
+            "ocr_retry_conf": 0.7282,
+            "normalized_text": "desifre deha marti"
+        },
+        {
+            "slot_name": "SLOT_007",
+            "order_index": 7,
+            "class_id": 0,
+            "center_x": 2523.04,
+            "center_y": 1540.91,
+            "yolo_conf": 0.9296,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_007.jpg",
+            "quad_points": [
+                [
+                    2786.086669921875,
+                    349.670654296875
+                ],
+                [
+                    2414.600830078125,
+                    325.802978515625
+                ],
+                [
+                    2259.994873046875,
+                    2732.1435546875
+                ],
+                [
+                    2631.480712890625,
+                    2756.01123046875
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.9674,
+            "ocr_quality_score": 1.3074,
+            "text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_raw": "SIYAHESEKARISI ROB SINCLAIR",
+            "match_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_filtered": "SIYAHESEKARISI ROB SINCLAIR",
+            "ocr_first_pass_conf": 0.9674,
+            "noise_detected": false,
+            "noise_token_count": 0,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "siyahesekarisi rob sinclair"
+        },
+        {
+            "slot_name": "SLOT_008",
+            "order_index": 8,
+            "class_id": 0,
+            "center_x": 2818.04,
+            "center_y": 1521.66,
+            "yolo_conf": 0.9179,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_008.jpg",
+            "quad_points": [
+                [
+                    3068.346923828125,
+                    355.44671630859375
+                ],
+                [
+                    2811.340576171875,
+                    328.90631103515625
+                ],
+                [
+                    2567.736083984375,
+                    2687.87353515625
+                ],
+                [
+                    2824.742431640625,
+                    2714.4140625
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.9888,
+            "ocr_quality_score": 1.4288,
+            "text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_raw": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "match_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_filtered": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "ocr_first_pass_conf": 0.9888,
+            "noise_detected": false,
+            "noise_token_count": 0,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "kutsal cehalet askin zengin akkus"
+        },
+        {
+            "slot_name": "SLOT_009",
+            "order_index": 9,
+            "class_id": 0,
+            "center_x": 3075.55,
+            "center_y": 1488.92,
+            "yolo_conf": 0.922,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_009.jpg",
+            "quad_points": [
+                [
+                    3385.091064453125,
+                    334.4164733886719
+                ],
+                [
+                    3106.869384765625,
+                    294.0513000488281
+                ],
+                [
+                    2766.016357421875,
+                    2643.420166015625
+                ],
+                [
+                    3044.238037109375,
+                    2683.785400390625
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.9815,
+            "ocr_quality_score": 1.4715,
+            "text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_raw": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "match_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_filtered": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "ocr_first_pass_conf": 0.9815,
+            "noise_detected": false,
+            "noise_token_count": 0,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "hayallerimiz jennifer e smith senveben"
+        },
+        {
+            "slot_name": "SLOT_010",
+            "order_index": 10,
+            "class_id": 0,
+            "center_x": 3313.86,
+            "center_y": 1597.66,
+            "yolo_conf": 0.871,
+            "slot_crop_file": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\cevaplar\\kontrol\\control_slot_crops\\SLOT_010.jpg",
+            "quad_points": [
+                [
+                    3618.10400390625,
+                    496.1654052734375
+                ],
+                [
+                    3440.060546875,
+                    461.9095458984375
+                ],
+                [
+                    3009.611328125,
+                    2699.14990234375
+                ],
+                [
+                    3187.65478515625,
+                    2733.40576171875
+                ]
+            ],
+            "ocr_error": false,
+            "ocr_mode": "sharpen",
+            "ocr_conf": 0.8856,
+            "ocr_quality_score": 1.5418,
+            "text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_raw": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "match_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_filtered": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "ocr_first_pass_conf": 0.8856,
+            "noise_detected": false,
+            "noise_token_count": 0,
+            "noise_removed_tokens": 0,
+            "ocr_retry_attempted": false,
+            "ocr_retry_used": false,
+            "normalized_text": "bahset bana muttuluktan ezgin kilic a dester edebiyat"
+        }
+    ],
+    "all_pair_scores": [
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 1.0,
+            "image_similarity": 0.7037,
+            "ocr_conf_score": 0.9763,
+            "final_score": 0.8507,
+            "image_details": {
+                "hist_score": 0.8586,
+                "phash_score": 0.7188,
+                "edge_score": 0.4726,
+                "orb_score": 0.6451,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 1.0,
+            "image_similarity": 0.564,
+            "ocr_conf_score": 0.9789,
+            "final_score": 0.7809,
+            "image_details": {
+                "hist_score": 0.8912,
+                "phash_score": 0.5938,
+                "edge_score": 0.2459,
+                "orb_score": 0.2723,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.8579,
+            "image_similarity": 0.6534,
+            "ocr_conf_score": 0.9253,
+            "final_score": 0.759,
+            "image_details": {
+                "hist_score": 0.8395,
+                "phash_score": 0.7188,
+                "edge_score": 0.539,
+                "orb_score": 0.3605,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.88,
+            "image_similarity": 0.6188,
+            "ocr_conf_score": 0.9518,
+            "final_score": 0.753,
+            "image_details": {
+                "hist_score": 0.856,
+                "phash_score": 0.6562,
+                "edge_score": 0.5194,
+                "orb_score": 0.2561,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.8507,
+            "image_similarity": 0.6393,
+            "ocr_conf_score": 0.991,
+            "final_score": 0.752,
+            "image_details": {
+                "hist_score": 0.7512,
+                "phash_score": 0.5625,
+                "edge_score": 0.5797,
+                "orb_score": 0.5992,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.8418,
+            "image_similarity": 0.6258,
+            "ocr_conf_score": 0.9686,
+            "final_score": 0.7401,
+            "image_details": {
+                "hist_score": 0.8042,
+                "phash_score": 0.6562,
+                "edge_score": 0.3952,
+                "orb_score": 0.5061,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.924,
+            "image_similarity": 0.5558,
+            "ocr_conf_score": 0.9031,
+            "final_score": 0.7389,
+            "image_details": {
+                "hist_score": 0.7257,
+                "phash_score": 0.625,
+                "edge_score": 0.3678,
+                "orb_score": 0.3596,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.768,
+            "image_similarity": 0.6729,
+            "ocr_conf_score": 0.8763,
+            "final_score": 0.7259,
+            "image_details": {
+                "hist_score": 0.8448,
+                "phash_score": 0.8125,
+                "edge_score": 0.5184,
+                "orb_score": 0.3523,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.5262,
+            "image_similarity": 0.6463,
+            "ocr_conf_score": 0.9265,
+            "final_score": 0.6063,
+            "image_details": {
+                "hist_score": 0.9023,
+                "phash_score": 0.6875,
+                "edge_score": 0.4918,
+                "orb_score": 0.3012,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.4667,
+            "image_similarity": 0.5782,
+            "ocr_conf_score": 0.8927,
+            "final_score": 0.5438,
+            "image_details": {
+                "hist_score": 0.6077,
+                "phash_score": 0.7188,
+                "edge_score": 0.4667,
+                "orb_score": 0.4627,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.1647,
+            "image_similarity": 0.6449,
+            "ocr_conf_score": 0.8991,
+            "final_score": 0.4415,
+            "image_details": {
+                "hist_score": 0.9301,
+                "phash_score": 0.75,
+                "edge_score": 0.385,
+                "orb_score": 0.2744,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.1745,
+            "image_similarity": 0.6264,
+            "ocr_conf_score": 0.9851,
+            "final_score": 0.441,
+            "image_details": {
+                "hist_score": 0.8577,
+                "phash_score": 0.875,
+                "edge_score": 0.345,
+                "orb_score": 0.1925,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.1627,
+            "image_similarity": 0.6249,
+            "ocr_conf_score": 0.9692,
+            "final_score": 0.4342,
+            "image_details": {
+                "hist_score": 0.811,
+                "phash_score": 0.9375,
+                "edge_score": 0.3223,
+                "orb_score": 0.2113,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.1867,
+            "image_similarity": 0.5955,
+            "ocr_conf_score": 0.8883,
+            "final_score": 0.4262,
+            "image_details": {
+                "hist_score": 0.7829,
+                "phash_score": 0.75,
+                "edge_score": 0.3528,
+                "orb_score": 0.317,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.2571,
+            "image_similarity": 0.5151,
+            "ocr_conf_score": 0.9677,
+            "final_score": 0.4217,
+            "image_details": {
+                "hist_score": 0.6785,
+                "phash_score": 0.75,
+                "edge_score": 0.2674,
+                "orb_score": 0.1833,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.1978,
+            "image_similarity": 0.5742,
+            "ocr_conf_score": 0.8774,
+            "final_score": 0.42,
+            "image_details": {
+                "hist_score": 0.7359,
+                "phash_score": 0.8438,
+                "edge_score": 0.375,
+                "orb_score": 0.1536,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.1424,
+            "image_similarity": 0.5618,
+            "ocr_conf_score": 0.9614,
+            "final_score": 0.393,
+            "image_details": {
+                "hist_score": 0.7367,
+                "phash_score": 0.6562,
+                "edge_score": 0.4485,
+                "orb_score": 0.2508,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.2077,
+            "image_similarity": 0.5011,
+            "ocr_conf_score": 0.9808,
+            "final_score": 0.393,
+            "image_details": {
+                "hist_score": 0.6039,
+                "phash_score": 0.6562,
+                "edge_score": 0.3446,
+                "orb_score": 0.2835,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.1636,
+            "image_similarity": 0.5479,
+            "ocr_conf_score": 0.8986,
+            "final_score": 0.3925,
+            "image_details": {
+                "hist_score": 0.7747,
+                "phash_score": 0.625,
+                "edge_score": 0.349,
+                "orb_score": 0.2534,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.16,
+            "image_similarity": 0.5363,
+            "ocr_conf_score": 0.9807,
+            "final_score": 0.3892,
+            "image_details": {
+                "hist_score": 0.6307,
+                "phash_score": 0.75,
+                "edge_score": 0.3373,
+                "orb_score": 0.3031,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.2233,
+            "image_similarity": 0.4774,
+            "ocr_conf_score": 0.9851,
+            "final_score": 0.3884,
+            "image_details": {
+                "hist_score": 0.5315,
+                "phash_score": 0.625,
+                "edge_score": 0.4452,
+                "orb_score": 0.2303,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.2658,
+            "image_similarity": 0.4445,
+            "ocr_conf_score": 0.9223,
+            "final_score": 0.388,
+            "image_details": {
+                "hist_score": 0.5492,
+                "phash_score": 0.625,
+                "edge_score": 0.2484,
+                "orb_score": 0.2318,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.1364,
+            "image_similarity": 0.5492,
+            "ocr_conf_score": 0.9745,
+            "final_score": 0.3847,
+            "image_details": {
+                "hist_score": 0.8407,
+                "phash_score": 0.6875,
+                "edge_score": 0.2186,
+                "orb_score": 0.1969,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.1859,
+            "image_similarity": 0.5002,
+            "ocr_conf_score": 0.9289,
+            "final_score": 0.3802,
+            "image_details": {
+                "hist_score": 0.6181,
+                "phash_score": 0.6562,
+                "edge_score": 0.3785,
+                "orb_score": 0.2208,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.18,
+            "image_similarity": 0.4994,
+            "ocr_conf_score": 0.9869,
+            "final_score": 0.38,
+            "image_details": {
+                "hist_score": 0.7542,
+                "phash_score": 0.5938,
+                "edge_score": 0.2518,
+                "orb_score": 0.183,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.1818,
+            "image_similarity": 0.496,
+            "ocr_conf_score": 0.9685,
+            "final_score": 0.3782,
+            "image_details": {
+                "hist_score": 0.5686,
+                "phash_score": 0.8438,
+                "edge_score": 0.2705,
+                "orb_score": 0.1596,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.1895,
+            "image_similarity": 0.4899,
+            "ocr_conf_score": 0.9574,
+            "final_score": 0.3781,
+            "image_details": {
+                "hist_score": 0.8098,
+                "phash_score": 0.5312,
+                "edge_score": 0.2149,
+                "orb_score": 0.1533,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.1585,
+            "image_similarity": 0.5105,
+            "ocr_conf_score": 0.9866,
+            "final_score": 0.3759,
+            "image_details": {
+                "hist_score": 0.7143,
+                "phash_score": 0.5625,
+                "edge_score": 0.2885,
+                "orb_score": 0.3109,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.1929,
+            "image_similarity": 0.4829,
+            "ocr_conf_score": 0.8954,
+            "final_score": 0.373,
+            "image_details": {
+                "hist_score": 0.5925,
+                "phash_score": 0.6875,
+                "edge_score": 0.255,
+                "orb_score": 0.2633,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.2294,
+            "image_similarity": 0.4451,
+            "ocr_conf_score": 0.9126,
+            "final_score": 0.3714,
+            "image_details": {
+                "hist_score": 0.5595,
+                "phash_score": 0.5625,
+                "edge_score": 0.3399,
+                "orb_score": 0.2033,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.1905,
+            "image_similarity": 0.4728,
+            "ocr_conf_score": 0.9681,
+            "final_score": 0.3705,
+            "image_details": {
+                "hist_score": 0.6951,
+                "phash_score": 0.5312,
+                "edge_score": 0.267,
+                "orb_score": 0.2167,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.1548,
+            "image_similarity": 0.5021,
+            "ocr_conf_score": 0.9855,
+            "final_score": 0.37,
+            "image_details": {
+                "hist_score": 0.784,
+                "phash_score": 0.5312,
+                "edge_score": 0.2351,
+                "orb_score": 0.2394,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.2182,
+            "image_similarity": 0.4441,
+            "ocr_conf_score": 0.9751,
+            "final_score": 0.369,
+            "image_details": {
+                "hist_score": 0.6014,
+                "phash_score": 0.5312,
+                "edge_score": 0.3208,
+                "orb_score": 0.1829,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.1818,
+            "image_similarity": 0.4836,
+            "ocr_conf_score": 0.8964,
+            "final_score": 0.3684,
+            "image_details": {
+                "hist_score": 0.716,
+                "phash_score": 0.4375,
+                "edge_score": 0.3975,
+                "orb_score": 0.2207,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.1905,
+            "image_similarity": 0.4656,
+            "ocr_conf_score": 0.9878,
+            "final_score": 0.3679,
+            "image_details": {
+                "hist_score": 0.4799,
+                "phash_score": 0.6562,
+                "edge_score": 0.3448,
+                "orb_score": 0.3229,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.2169,
+            "image_similarity": 0.4484,
+            "ocr_conf_score": 0.9164,
+            "final_score": 0.3676,
+            "image_details": {
+                "hist_score": 0.5366,
+                "phash_score": 0.625,
+                "edge_score": 0.4037,
+                "orb_score": 0.1179,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.1474,
+            "image_similarity": 0.5118,
+            "ocr_conf_score": 0.8871,
+            "final_score": 0.3666,
+            "image_details": {
+                "hist_score": 0.6111,
+                "phash_score": 0.7812,
+                "edge_score": 0.3397,
+                "orb_score": 0.1735,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.1655,
+            "image_similarity": 0.4844,
+            "ocr_conf_score": 0.9914,
+            "final_score": 0.3662,
+            "image_details": {
+                "hist_score": 0.5886,
+                "phash_score": 0.6562,
+                "edge_score": 0.3475,
+                "orb_score": 0.224,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.15,
+            "image_similarity": 0.5076,
+            "ocr_conf_score": 0.8924,
+            "final_score": 0.3659,
+            "image_details": {
+                "hist_score": 0.8146,
+                "phash_score": 0.5938,
+                "edge_score": 0.2313,
+                "orb_score": 0.139,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.1684,
+            "image_similarity": 0.4822,
+            "ocr_conf_score": 0.9707,
+            "final_score": 0.3654,
+            "image_details": {
+                "hist_score": 0.7477,
+                "phash_score": 0.5312,
+                "edge_score": 0.2922,
+                "orb_score": 0.1463,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.1292,
+            "image_similarity": 0.5157,
+            "ocr_conf_score": 0.9833,
+            "final_score": 0.3651,
+            "image_details": {
+                "hist_score": 0.535,
+                "phash_score": 0.9062,
+                "edge_score": 0.2554,
+                "orb_score": 0.2539,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.1833,
+            "image_similarity": 0.4756,
+            "ocr_conf_score": 0.8935,
+            "final_score": 0.365,
+            "image_details": {
+                "hist_score": 0.6107,
+                "phash_score": 0.6562,
+                "edge_score": 0.3122,
+                "orb_score": 0.1769,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.2031,
+            "image_similarity": 0.4553,
+            "ocr_conf_score": 0.9183,
+            "final_score": 0.365,
+            "image_details": {
+                "hist_score": 0.5706,
+                "phash_score": 0.6562,
+                "edge_score": 0.2248,
+                "orb_score": 0.233,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.1532,
+            "image_similarity": 0.501,
+            "ocr_conf_score": 0.8924,
+            "final_score": 0.3641,
+            "image_details": {
+                "hist_score": 0.7546,
+                "phash_score": 0.5625,
+                "edge_score": 0.26,
+                "orb_score": 0.2215,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.1556,
+            "image_similarity": 0.4892,
+            "ocr_conf_score": 0.9805,
+            "final_score": 0.3636,
+            "image_details": {
+                "hist_score": 0.6641,
+                "phash_score": 0.625,
+                "edge_score": 0.4005,
+                "orb_score": 0.1023,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.15,
+            "image_similarity": 0.4911,
+            "ocr_conf_score": 0.9803,
+            "final_score": 0.362,
+            "image_details": {
+                "hist_score": 0.7095,
+                "phash_score": 0.625,
+                "edge_score": 0.2075,
+                "orb_score": 0.2249,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.1527,
+            "image_similarity": 0.4955,
+            "ocr_conf_score": 0.8968,
+            "final_score": 0.3613,
+            "image_details": {
+                "hist_score": 0.7102,
+                "phash_score": 0.5938,
+                "edge_score": 0.3023,
+                "orb_score": 0.1903,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.1742,
+            "image_similarity": 0.4614,
+            "ocr_conf_score": 0.9795,
+            "final_score": 0.3581,
+            "image_details": {
+                "hist_score": 0.5777,
+                "phash_score": 0.7188,
+                "edge_score": 0.2815,
+                "orb_score": 0.1162,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.1235,
+            "image_similarity": 0.5168,
+            "ocr_conf_score": 0.8825,
+            "final_score": 0.3581,
+            "image_details": {
+                "hist_score": 0.6748,
+                "phash_score": 0.8438,
+                "edge_score": 0.2026,
+                "orb_score": 0.1457,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.2298,
+            "image_similarity": 0.4048,
+            "ocr_conf_score": 0.9732,
+            "final_score": 0.3545,
+            "image_details": {
+                "hist_score": 0.5154,
+                "phash_score": 0.625,
+                "edge_score": 0.3056,
+                "orb_score": 0.0352,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.1412,
+            "image_similarity": 0.4848,
+            "ocr_conf_score": 0.9718,
+            "final_score": 0.3545,
+            "image_details": {
+                "hist_score": 0.5256,
+                "phash_score": 0.8125,
+                "edge_score": 0.3188,
+                "orb_score": 0.1699,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_008",
+            "current_order": 8,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "KUTSAL CEHALET ASKIN ZENGIN AKKUS",
+            "text_similarity": 0.1301,
+            "image_similarity": 0.4937,
+            "ocr_conf_score": 0.9781,
+            "final_score": 0.3543,
+            "image_details": {
+                "hist_score": 0.6204,
+                "phash_score": 0.7812,
+                "edge_score": 0.2518,
+                "orb_score": 0.1544,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.15,
+            "image_similarity": 0.476,
+            "ocr_conf_score": 0.9748,
+            "final_score": 0.3542,
+            "image_details": {
+                "hist_score": 0.8216,
+                "phash_score": 0.5,
+                "edge_score": 0.1389,
+                "orb_score": 0.1784,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.1558,
+            "image_similarity": 0.4786,
+            "ocr_conf_score": 0.8898,
+            "final_score": 0.3539,
+            "image_details": {
+                "hist_score": 0.5367,
+                "phash_score": 0.7188,
+                "edge_score": 0.3652,
+                "orb_score": 0.1905,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.1433,
+            "image_similarity": 0.4876,
+            "ocr_conf_score": 0.8868,
+            "final_score": 0.3526,
+            "image_details": {
+                "hist_score": 0.7745,
+                "phash_score": 0.5,
+                "edge_score": 0.287,
+                "orb_score": 0.1707,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.1,
+            "image_similarity": 0.5223,
+            "ocr_conf_score": 0.8828,
+            "final_score": 0.3503,
+            "image_details": {
+                "hist_score": 0.7526,
+                "phash_score": 0.625,
+                "edge_score": 0.2976,
+                "orb_score": 0.2154,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.15,
+            "image_similarity": 0.4675,
+            "ocr_conf_score": 0.9617,
+            "final_score": 0.3493,
+            "image_details": {
+                "hist_score": 0.6837,
+                "phash_score": 0.4688,
+                "edge_score": 0.3951,
+                "orb_score": 0.16,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.1391,
+            "image_similarity": 0.4812,
+            "ocr_conf_score": 0.8772,
+            "final_score": 0.347,
+            "image_details": {
+                "hist_score": 0.6099,
+                "phash_score": 0.7188,
+                "edge_score": 0.2124,
+                "orb_score": 0.2276,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.1791,
+            "image_similarity": 0.4393,
+            "ocr_conf_score": 0.918,
+            "final_score": 0.3461,
+            "image_details": {
+                "hist_score": 0.5003,
+                "phash_score": 0.7812,
+                "edge_score": 0.2497,
+                "orb_score": 0.0947,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.1745,
+            "image_similarity": 0.4467,
+            "ocr_conf_score": 0.882,
+            "final_score": 0.346,
+            "image_details": {
+                "hist_score": 0.5942,
+                "phash_score": 0.5625,
+                "edge_score": 0.277,
+                "orb_score": 0.2135,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.2118,
+            "image_similarity": 0.4047,
+            "ocr_conf_score": 0.9644,
+            "final_score": 0.3459,
+            "image_details": {
+                "hist_score": 0.4961,
+                "phash_score": 0.5,
+                "edge_score": 0.3403,
+                "orb_score": 0.19,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.2133,
+            "image_similarity": 0.4101,
+            "ocr_conf_score": 0.8515,
+            "final_score": 0.3436,
+            "image_details": {
+                "hist_score": 0.5416,
+                "phash_score": 0.6875,
+                "edge_score": 0.1432,
+                "orb_score": 0.1,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.1548,
+            "image_similarity": 0.4495,
+            "ocr_conf_score": 0.9744,
+            "final_score": 0.3431,
+            "image_details": {
+                "hist_score": 0.569,
+                "phash_score": 0.625,
+                "edge_score": 0.3067,
+                "orb_score": 0.1637,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.208,
+            "image_similarity": 0.4088,
+            "ocr_conf_score": 0.8995,
+            "final_score": 0.343,
+            "image_details": {
+                "hist_score": 0.5033,
+                "phash_score": 0.5,
+                "edge_score": 0.3061,
+                "orb_score": 0.232,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.1636,
+            "image_similarity": 0.4479,
+            "ocr_conf_score": 0.8828,
+            "final_score": 0.3417,
+            "image_details": {
+                "hist_score": 0.5836,
+                "phash_score": 0.6562,
+                "edge_score": 0.2379,
+                "orb_score": 0.1599,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.1421,
+            "image_similarity": 0.457,
+            "ocr_conf_score": 0.9777,
+            "final_score": 0.3413,
+            "image_details": {
+                "hist_score": 0.6499,
+                "phash_score": 0.5625,
+                "edge_score": 0.2246,
+                "orb_score": 0.2201,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.1075,
+            "image_similarity": 0.4887,
+            "ocr_conf_score": 0.9509,
+            "final_score": 0.3403,
+            "image_details": {
+                "hist_score": 0.634,
+                "phash_score": 0.625,
+                "edge_score": 0.3393,
+                "orb_score": 0.2135,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.1091,
+            "image_similarity": 0.4839,
+            "ocr_conf_score": 0.9791,
+            "final_score": 0.34,
+            "image_details": {
+                "hist_score": 0.7318,
+                "phash_score": 0.625,
+                "edge_score": 0.2449,
+                "orb_score": 0.1127,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.1627,
+            "image_similarity": 0.4369,
+            "ocr_conf_score": 0.9632,
+            "final_score": 0.3398,
+            "image_details": {
+                "hist_score": 0.6032,
+                "phash_score": 0.5312,
+                "edge_score": 0.282,
+                "orb_score": 0.1829,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.1519,
+            "image_similarity": 0.4458,
+            "ocr_conf_score": 0.9715,
+            "final_score": 0.3398,
+            "image_details": {
+                "hist_score": 0.6401,
+                "phash_score": 0.5312,
+                "edge_score": 0.302,
+                "orb_score": 0.1429,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.1071,
+            "image_similarity": 0.4904,
+            "ocr_conf_score": 0.9226,
+            "final_score": 0.3395,
+            "image_details": {
+                "hist_score": 0.5838,
+                "phash_score": 0.6562,
+                "edge_score": 0.4025,
+                "orb_score": 0.2074,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_006",
+            "current_order": 6,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "DESIFRE! DEHA 00 01101000 011 01 00100000 0110 0010 10 01101001 0111 01101000 0110 00100000 01.10 00101 0010 MARTI",
+            "text_similarity": 0.1532,
+            "image_similarity": 0.4429,
+            "ocr_conf_score": 0.9792,
+            "final_score": 0.3394,
+            "image_details": {
+                "hist_score": 0.5903,
+                "phash_score": 0.5625,
+                "edge_score": 0.2906,
+                "orb_score": 0.1878,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.15,
+            "image_similarity": 0.4463,
+            "ocr_conf_score": 0.9698,
+            "final_score": 0.3391,
+            "image_details": {
+                "hist_score": 0.6476,
+                "phash_score": 0.5625,
+                "edge_score": 0.2276,
+                "orb_score": 0.1673,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.1784,
+            "image_similarity": 0.4273,
+            "ocr_conf_score": 0.886,
+            "final_score": 0.3382,
+            "image_details": {
+                "hist_score": 0.6366,
+                "phash_score": 0.5312,
+                "edge_score": 0.2304,
+                "orb_score": 0.1281,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.161,
+            "image_similarity": 0.4349,
+            "ocr_conf_score": 0.9279,
+            "final_score": 0.3363,
+            "image_details": {
+                "hist_score": 0.5068,
+                "phash_score": 0.8125,
+                "edge_score": 0.2434,
+                "orb_score": 0.0286,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.1671,
+            "image_similarity": 0.4238,
+            "ocr_conf_score": 0.9671,
+            "final_score": 0.3354,
+            "image_details": {
+                "hist_score": 0.5512,
+                "phash_score": 0.6562,
+                "edge_score": 0.2246,
+                "orb_score": 0.1093,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.0889,
+            "image_similarity": 0.4892,
+            "ocr_conf_score": 0.9848,
+            "final_score": 0.3338,
+            "image_details": {
+                "hist_score": 0.7186,
+                "phash_score": 0.5312,
+                "edge_score": 0.2577,
+                "orb_score": 0.2664,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.0952,
+            "image_similarity": 0.4872,
+            "ocr_conf_score": 0.9027,
+            "final_score": 0.3316,
+            "image_details": {
+                "hist_score": 0.7204,
+                "phash_score": 0.5625,
+                "edge_score": 0.2363,
+                "orb_score": 0.2356,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.0923,
+            "image_similarity": 0.4904,
+            "ocr_conf_score": 0.8931,
+            "final_score": 0.3314,
+            "image_details": {
+                "hist_score": 0.647,
+                "phash_score": 0.6875,
+                "edge_score": 0.2765,
+                "orb_score": 0.1837,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_002",
+            "current_order": 2,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "TERK EDILIŞIM Neden? PETER ROCK",
+            "text_similarity": 0.12,
+            "image_similarity": 0.4546,
+            "ocr_conf_score": 0.9618,
+            "final_score": 0.3294,
+            "image_details": {
+                "hist_score": 0.621,
+                "phash_score": 0.5312,
+                "edge_score": 0.3677,
+                "orb_score": 0.1545,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.1034,
+            "image_similarity": 0.4657,
+            "ocr_conf_score": 0.9746,
+            "final_score": 0.3281,
+            "image_details": {
+                "hist_score": 0.6474,
+                "phash_score": 0.6562,
+                "edge_score": 0.2764,
+                "orb_score": 0.0986,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.1448,
+            "image_similarity": 0.428,
+            "ocr_conf_score": 0.9728,
+            "final_score": 0.3278,
+            "image_details": {
+                "hist_score": 0.6217,
+                "phash_score": 0.5312,
+                "edge_score": 0.3209,
+                "orb_score": 0.0669,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.1957,
+            "image_similarity": 0.3897,
+            "ocr_conf_score": 0.8418,
+            "final_score": 0.325,
+            "image_details": {
+                "hist_score": 0.5012,
+                "phash_score": 0.5625,
+                "edge_score": 0.2863,
+                "orb_score": 0.0821,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_007",
+            "reference_order": 7,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "KUTSAL CEHALET PAE ASKIN ZENGIN AKKUS",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.1636,
+            "image_similarity": 0.4115,
+            "ocr_conf_score": 0.8921,
+            "final_score": 0.324,
+            "image_details": {
+                "hist_score": 0.5779,
+                "phash_score": 0.5,
+                "edge_score": 0.3159,
+                "orb_score": 0.1053,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.144,
+            "image_similarity": 0.4273,
+            "ocr_conf_score": 0.9119,
+            "final_score": 0.324,
+            "image_details": {
+                "hist_score": 0.5468,
+                "phash_score": 0.5938,
+                "edge_score": 0.2844,
+                "orb_score": 0.153,
+                "best_rotation": 0
+            }
+        },
+        {
+            "reference_slot": "SLOT_009",
+            "reference_order": 9,
+            "current_slot": "SLOT_003",
+            "current_order": 3,
+            "reference_text": "HAYALLERIMIZ SENVEBEN 口口 口 JENNIFER E. SMITH",
+            "current_text": "TESS BIÇAK SIRTI GERRITSEN",
+            "text_similarity": 0.1313,
+            "image_similarity": 0.4325,
+            "ocr_conf_score": 0.9285,
+            "final_score": 0.3217,
+            "image_details": {
+                "hist_score": 0.546,
+                "phash_score": 0.5938,
+                "edge_score": 0.2746,
+                "orb_score": 0.1903,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.1021,
+            "image_similarity": 0.4613,
+            "ocr_conf_score": 0.8881,
+            "final_score": 0.321,
+            "image_details": {
+                "hist_score": 0.612,
+                "phash_score": 0.625,
+                "edge_score": 0.3445,
+                "orb_score": 0.1098,
+                "best_rotation": 90
+            }
+        },
+        {
+            "reference_slot": "SLOT_003",
+            "reference_order": 3,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "TESS BIÇAK SIRT! GERRITSEN",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.1077,
+            "image_similarity": 0.4508,
+            "ocr_conf_score": 0.9399,
+            "final_score": 0.3209,
+            "image_details": {
+                "hist_score": 0.5174,
+                "phash_score": 0.7188,
+                "edge_score": 0.2289,
+                "orb_score": 0.2214,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.1931,
+            "image_similarity": 0.369,
+            "ocr_conf_score": 0.961,
+            "final_score": 0.3195,
+            "image_details": {
+                "hist_score": 0.5086,
+                "phash_score": 0.4375,
+                "edge_score": 0.3001,
+                "orb_score": 0.1081,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_005",
+            "current_order": 5,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "SABAHATTİN ALİKürk Mantolu Madonna 00",
+            "text_similarity": 0.0909,
+            "image_similarity": 0.46,
+            "ocr_conf_score": 0.9624,
+            "final_score": 0.319,
+            "image_details": {
+                "hist_score": 0.6772,
+                "phash_score": 0.5625,
+                "edge_score": 0.2728,
+                "orb_score": 0.1388,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_010",
+            "reference_order": 10,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "Ezgin Kiliç BanaMutluluktan Bahset DESTEK EDEBIYAT",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.0623,
+            "image_similarity": 0.4839,
+            "ocr_conf_score": 0.9674,
+            "final_score": 0.3184,
+            "image_details": {
+                "hist_score": 0.6471,
+                "phash_score": 0.6562,
+                "edge_score": 0.274,
+                "orb_score": 0.1931,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.1404,
+            "image_similarity": 0.4088,
+            "ocr_conf_score": 0.9819,
+            "final_score": 0.3167,
+            "image_details": {
+                "hist_score": 0.5046,
+                "phash_score": 0.5938,
+                "edge_score": 0.2782,
+                "orb_score": 0.1408,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_008",
+            "reference_order": 8,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "DESIFRE! MAIJIA JUU",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.0845,
+            "image_similarity": 0.464,
+            "ocr_conf_score": 0.8475,
+            "final_score": 0.3124,
+            "image_details": {
+                "hist_score": 0.5532,
+                "phash_score": 0.6562,
+                "edge_score": 0.3277,
+                "orb_score": 0.2036,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_002",
+            "reference_order": 2,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.1317,
+            "image_similarity": 0.4094,
+            "ocr_conf_score": 0.934,
+            "final_score": 0.3106,
+            "image_details": {
+                "hist_score": 0.5719,
+                "phash_score": 0.5625,
+                "edge_score": 0.263,
+                "orb_score": 0.0798,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_009",
+            "current_order": 9,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "HAYALLERIMIZ JENNIFER E. SMITH SENVEBEN",
+            "text_similarity": 0.1433,
+            "image_similarity": 0.39,
+            "ocr_conf_score": 0.9758,
+            "final_score": 0.3083,
+            "image_details": {
+                "hist_score": 0.4955,
+                "phash_score": 0.625,
+                "edge_score": 0.2276,
+                "orb_score": 0.0739,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_004",
+            "reference_order": 4,
+            "current_slot": "SLOT_007",
+            "current_order": 7,
+            "reference_text": "GEORGE ORWELL HAYVAN GIFTLIGI",
+            "current_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "text_similarity": 0.0643,
+            "image_similarity": 0.4574,
+            "ocr_conf_score": 0.9688,
+            "final_score": 0.3061,
+            "image_details": {
+                "hist_score": 0.5741,
+                "phash_score": 0.7812,
+                "edge_score": 0.2459,
+                "orb_score": 0.0599,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_001",
+            "reference_order": 1,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "TERK EDILIŞIM PETER ROCK Neden?",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.0814,
+            "image_similarity": 0.4337,
+            "ocr_conf_score": 0.9571,
+            "final_score": 0.3013,
+            "image_details": {
+                "hist_score": 0.5722,
+                "phash_score": 0.5312,
+                "edge_score": 0.3665,
+                "orb_score": 0.1364,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_004",
+            "current_order": 4,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "GEORGE ORWELL HAYVAN GIFTLIGT",
+            "text_similarity": 0.0429,
+            "image_similarity": 0.4545,
+            "ocr_conf_score": 0.976,
+            "final_score": 0.2954,
+            "image_details": {
+                "hist_score": 0.5897,
+                "phash_score": 0.7188,
+                "edge_score": 0.2614,
+                "orb_score": 0.081,
+                "best_rotation": 270
+            }
+        },
+        {
+            "reference_slot": "SLOT_006",
+            "reference_order": 6,
+            "current_slot": "SLOT_010",
+            "current_order": 10,
+            "reference_text": "SIYAHESEKARISI ROB SINCLAIR",
+            "current_text": "Bahset Bana Muttuluktan Ezgin Kilıç A DESTER EDEBIYAT",
+            "text_similarity": 0.06,
+            "image_similarity": 0.4332,
+            "ocr_conf_score": 0.9354,
+            "final_score": 0.2904,
+            "image_details": {
+                "hist_score": 0.5427,
+                "phash_score": 0.6562,
+                "edge_score": 0.2172,
+                "orb_score": 0.1786,
+                "best_rotation": 180
+            }
+        },
+        {
+            "reference_slot": "SLOT_005",
+            "reference_order": 5,
+            "current_slot": "SLOT_001",
+            "current_order": 1,
+            "reference_text": "SABAHATTİN ALİ Kürk Mantolu Madonna 0日0",
+            "current_text": "Ebedigen KATHLEEN E. WOODIWISS",
+            "text_similarity": 0.1059,
+            "image_similarity": 0.3879,
+            "ocr_conf_score": 0.8868,
+            "final_score": 0.2859,
+            "image_details": {
+                "hist_score": 0.5459,
+                "phash_score": 0.4688,
+                "edge_score": 0.2585,
+                "orb_score": 0.1395,
+                "best_rotation": 270
+            }
+        }
+    ],
+    "models": {
+        "yolo": "C:\\Users\\Fatih\\Documents\\kitap_raf_yolo26_ppocrv6\\best (1).pt",
+        "ocr_detection": "PP-OCRv6_small_det",
+        "ocr_recognition": "PP-OCRv6_small_rec"
+    },
+    "timings_seconds": {
+        "detect_and_crop_seconds": 11.342,
+        "ocr_seconds": 7.602,
+        "yolo_seconds": 11.176,
+        "matching": 1.053,
+        "total": 26.838
+    }
+}
