@@ -1,0 +1,3 @@
+https://universe.roboflow.com/sakaryauniversite/book-counter-rhspr/dataset/1 (Fork Dataset fotoğraflar klonlanıp çözünürlük ayarları değiştirildi)
+
+https://universe.roboflow.com/fatihs-workspace-ojhsw/kitaplaar
