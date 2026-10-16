@@ -304,21 +304,6 @@ python -m pytest -q test_raf.py
 
 Bu testler metin normalizasyonu, OBB crop, OCR sonuç işleme ve eşleştirme gibi davranışları **gerçek model indirmeden** doğrular. Gerçek ağırlıklarla uçtan uca kontrol için yukarıdaki örnek fotoğraf komutlarını çalıştırın.
 
-### Sık karşılaşılan sorunlar
-
-| Sorun | Çözüm |
-|---|---|
-| `py -3.10` bulunamadı | Python 3.10 (64 bit) yükleyin; `py -0p` ile kurulu sürümleri kontrol edin. |
-| PowerShell `Activate.ps1` engeli | `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` kullanın. |
-| `best.pt` bulunamadı | Komutları `KitapTespit-Değişim/` dizininde çalıştırın ve `--model ".\best.pt"` verin. |
-| YOLO GPU/CUDA'ya gitmeye çalışıyor | Her **`ölçüm.py` ve `search.py`** çağrısına `--yolo-device cpu` yazın. |
-| PaddleOCR açılmıyor / oneDNN / PIR hatası | CPU PaddlePaddle `3.2.2` kurulumunu doğrulayın, gerekirse `--ocr-mkldnn off` ekleyin. |
-| Çok yavaş veya yüksek RAM tüketimi | `--ocr-batch 2` veya `1` deneyin; gerekirse `--imgsz 960` düşürün. |
-| Referans JSON bulunamıyor | Önce `ölçüm.py` çalıştırın; `search.py --reference` değeri **JSON'un bulunduğu klasör** olmalıdır. |
-| Referans üretilmiyor, eski referans korunuyor | Yeni `--output` klasörü kullanın veya gerçekten üzerine yazmak istiyorsanız `--force` verin. |
-| Kitaplar yeterince tespit edilmiyor | Eğitilmiş `best.pt` kullandığınızı ve `--conf` eşiğini kontrol edin; daha düşük eşik yanlış pozitifleri artırabilir. |
-| İlk açılışta indirme sorunu | PaddleOCR modellerinin ilk kullanımda indirildiğini unutmayın; bağlantı, proxy ve önbelleği kontrol edin. |
-
 ## Kısa CPU komut özeti
 
 ~~~powershell
